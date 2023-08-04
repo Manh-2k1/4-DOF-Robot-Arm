@@ -1,1 +1,1 @@
-In this Folder is a SolidWorks file to design 4-DoF Robot ARM including details of the robot's links and joints.
+This folder contains MATLAB code for Robot Arm Control Interface and simulation file 4-DOF Robot 
